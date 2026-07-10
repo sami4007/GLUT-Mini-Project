@@ -127,27 +127,11 @@ This project was developed to practice:
 
 ---
 
-## 📷 Screenshots
 
-You can add screenshots here after capturing the application.
-
-Example:
-
-```
-screenshots/
-│── cuet_gate.png
-│── day_view.png
-│── animation.png
-```
-
-Then include them like this:
-
-```markdown
 ## Screenshots
 
-![CUET Gate](screenshots/cuet_gate.png)
+![CUET Gate](screenshots/Cuet Gate.png)
 
-![Animation](screenshots/animation.png)
 ```
 
 ---

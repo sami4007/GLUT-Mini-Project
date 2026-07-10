@@ -130,7 +130,8 @@ This project was developed to practice:
 
 ## Screenshots
 
-![CUET Gate](screenshot/Cuet Gate.png)
+
+![CUET Gate](screenshot/cuet_gate.png)
 
 ```
 

@@ -128,7 +128,7 @@ This project was developed to practice:
 ---
 
 
-## Screenshots
+## Screenshot
 
 
 ![CUET Gate](screenshot/cuet_gate.png)
